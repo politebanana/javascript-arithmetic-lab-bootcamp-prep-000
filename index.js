@@ -1,1 +1,2 @@
-Function {add(2, 2)};
+var=x
+var=y
