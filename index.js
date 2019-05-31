@@ -1,1 +1,1 @@
-add(2, 2)
+Function {add(2, 2)};
